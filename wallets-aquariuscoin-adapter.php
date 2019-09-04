@@ -10,7 +10,7 @@ Author URI: https://aquariuscoin.com
 */
 
 function wallets_multiadapter_coins_filter( $coins ) {
-	$coins['LANA'] = array( // replace XYZ with the coin's ticker symbol in this line
+	$coins['ARCO'] = array( // replace XYZ with the coin's ticker symbol in this line
 
 		// Coin symbol (again)
 		'symbol' => 'ARCO',
